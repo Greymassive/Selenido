@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pgfwsfw4y5558p5l?svg=true)](https://ci.appveyor.com/project/Greymassive/selenido)
